@@ -26,3 +26,5 @@ Temporary Items
 .apdisk
 
 *.log
+Thumbs.db
+.idea
