@@ -1,7 +1,6 @@
 # CV
 
-<img src="./img/my_foto.jpeg">
-
+![](./img/my_foto.jpeg)
 ## Никишин Дмитрий
 
 Обо мне:
